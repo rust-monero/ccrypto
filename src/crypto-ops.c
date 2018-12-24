@@ -31,10 +31,10 @@
 #include <assert.h>
 #include <stdint.h>
 
-#include "warnings.h"
+//#include "warnings.h"
 #include "crypto-ops.h"
 
-DISABLE_VS_WARNINGS(4146 4244)
+//DISABLE_VS_WARNINGS(4146 4244)
 
 /* Predeclarations */
 
