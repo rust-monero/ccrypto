@@ -32,6 +32,8 @@
 
 /* From fe.h */
 
+#include <stdint.h>
+
 typedef int32_t fe[10];
 
 /* From ge.h */
